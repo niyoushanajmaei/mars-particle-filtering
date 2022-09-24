@@ -1,0 +1,4 @@
+OLY_X, OLY_Y = -133, 18
+ARS_X, ARS_Y = -121, -9
+PAV_X, PAV_Y = -113, 1
+ASC_X, ASC_Y = -104, 12
